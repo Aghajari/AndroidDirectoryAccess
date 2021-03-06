@@ -5,6 +5,6 @@ Simple app to get Android/{data,obb} directory access for Android >= 11 without 
 
 - [x] Doesn't need root.
 - [x] Useful for File Managers on Android >= 11.
-- [x] Tested on Android 11.
+- [x] Tested on Android 11 & 10 & 7.
 - [x] Android/data directory access
 - [x] Android/obb directory access
